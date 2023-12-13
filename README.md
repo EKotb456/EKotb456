@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EKotb456
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, JS lang
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me to be profional
+- 👋 Hi, I’m kotb456;
+- 👀 I’m interested in Programming;
+- 🌱 I’m currently learning Python, JS lang;
+- 💞️ I’m looking to collaborate on;
+- 📫 How to reach me to be profional;
 
 - print("hello world").
 
