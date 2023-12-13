@@ -2,8 +2,9 @@
 - 👀 I’m interested in Programming;
 - 🌱 I’m currently learning Python, JS lang;
 - 💞️ I’m looking to collaborate on;
-- 📫 How to reach me to be profional;
+- 📫 How to be so professinal on something;
 
+- coding: 
 - print("hello world").
 
 <!---
