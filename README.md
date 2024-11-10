@@ -1,7 +1,7 @@
 ___
 - 👋 Hi, I’m kotb456;
 - 👀 I’m interested in Programming;
-- 🌱 I’m currently learning Python, JS lang;
+- 🌱 I’m currently learning PHP, to build web apps; 
 - 💞️ I’m looking to collaborate on;
 - 📫 How to be so professinal on something;
 ___
