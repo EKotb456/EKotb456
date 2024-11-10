@@ -5,7 +5,8 @@
 - 📫 How to be so professinal on something;
 
 - coding: 
-- print("hello world").
+- $name = "Kotb456";
+- echo "hello, my name is " . $name; 
 
 <!---
 EKotb456/EKotb456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
